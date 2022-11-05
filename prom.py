@@ -36,7 +36,10 @@ n3=PC3*0.40
 prom3 = (n1+n2+n3)
 print("EL PROMEDIO COMPUTO 3 ES : ", prom3)
 
+c1=prom1*0.35
+c2=prom2*0.35
+c3=prom3*0.30
 
 print("TOTAL")
-promF=(prom1+prom2+prom3)/3
+promF=(c1+c2+c3)
 print("Nota final es: ",promF)
