@@ -19,3 +19,24 @@
     text-align: center;
     border-radius: 15px;
 }
+#Empresa{
+    background:url(../IMG/YG.jpg) ;
+    color: white;
+    background-repeat: no-repeat, repeat;
+    background-size: 100%, auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+#Albums{
+    background: url(../IMG/BlackPink.jpg);
+    color:pink;
+    background-color: black;
+    background-repeat: no-repeat, repeat;
+    background-position: bottom center, center center;
+    background-size: 100%, auto;
+}
+div.card{
+    background-color: black;
+}
+
