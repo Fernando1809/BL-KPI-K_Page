@@ -40,3 +40,6 @@ div.card{
     background-color: black;
 }
 
+#card-separador {
+    justify-content: space-between;
+}
