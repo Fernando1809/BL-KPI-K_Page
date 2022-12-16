@@ -44,7 +44,16 @@ div.card{
 #card-separador {
     justify-content: space-between;
 }
-#PresentacionKJIS{
+#Presentacion{
     color: pink;
+    align-items: center;
+    text-align: center;
 }
+.link:hover{
+    --BP:rgb(9, 243, 212);
+    color: var(--BP);    
+}
+footer{
+    color: pink;
+} 
 
