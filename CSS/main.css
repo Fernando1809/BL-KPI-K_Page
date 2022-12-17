@@ -31,10 +31,9 @@
 #Albums{
     background: url(../IMG/BlackPink.jpg);
     color:pink;
-    background-color: black;
     background-repeat: no-repeat, repeat;
     background-position: bottom center, center center;
-    background-size: 100%, auto;
+    background-size: 200%, auto;
     text-align: center;
 }
 div.card{
@@ -57,3 +56,6 @@ footer{
     color: pink;
 } 
 
+#Spotify{
+    align-items: center;
+}
