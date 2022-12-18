@@ -33,7 +33,7 @@
     color:pink;
     background-repeat: no-repeat, repeat;
     background-position: bottom center, center center;
-    background-size: 200%, auto;
+    background-size: 250%, auto;
     text-align: center;
 }
 div.card{
@@ -58,4 +58,12 @@ footer{
 
 #Spotify{
     align-items: center;
+}
+#MV´S{
+    background: url("../IMG/BlackP1ink.jpg");
+    color:pink;
+    background-repeat: no-repeat, repeat;
+    background-position: bottom center, center center;
+    background-size:cover;
+    text-align: center;
 }
